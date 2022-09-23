@@ -17,7 +17,6 @@ import logging
 
 class Test_003_LoginDDT:
 
-    #baseURL = "https://demowebshop.tricentis.com/"
     baseURL = ReadConfig.getApplicationURL()
     path = "./TestData/LoginData.xlsx"
     logger=LogGen.loggen()
