@@ -1,0 +1,76 @@
+2022-09-22 12:53:32,774 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 12:53:32,911 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 12:56:18,601 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 12:56:18,601 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 12:56:21,947 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 12:56:26,528 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 12:56:26,528 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 12:56:50,806 - test_HomePage.py:[60] - [INFO] - Login Page Test failed
+2022-09-22 12:56:50,807 - test_HomePage.py:[61] - [ERROR] - Test failed
+2022-09-22 13:16:52,337 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:16:52,338 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:16:58,669 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:17:03,014 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:17:03,014 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:17:39,808 - test_HomePage.py:[60] - [INFO] - Login Page Test failed
+2022-09-22 13:17:39,808 - test_HomePage.py:[61] - [ERROR] - Test failed
+2022-09-22 13:24:15,147 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:24:15,148 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:24:19,718 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:24:28,792 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:24:28,793 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:24:33,020 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:27:18,095 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:27:18,096 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:27:21,485 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:27:25,252 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:27:25,252 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:27:29,142 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:31:18,374 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:31:18,418 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:31:19,173 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:31:19,173 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:31:28,406 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:31:29,176 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:32:12,241 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:32:12,241 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:32:12,297 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:32:12,300 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:32:19,892 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:32:20,375 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:36:27,268 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:36:27,292 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:36:36,847 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:36:40,753 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:36:40,753 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:36:45,307 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:45:26,110 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:45:26,111 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:45:29,599 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:45:33,407 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:45:33,407 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:45:37,831 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:46:20,758 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:46:20,758 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:46:24,372 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:46:28,311 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:46:28,311 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:46:32,272 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:47:53,091 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:47:53,092 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:47:56,412 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:48:00,260 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:48:00,260 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:48:03,846 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:52:01,347 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:52:01,347 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:52:04,668 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:52:09,243 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:52:09,243 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:52:13,800 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-22 13:52:31,219 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:52:31,220 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-22 13:52:34,510 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-22 13:52:38,274 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-22 13:52:38,274 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-22 13:52:43,432 - test_HomePage.py:[55] - [INFO] - Login Page Test passed

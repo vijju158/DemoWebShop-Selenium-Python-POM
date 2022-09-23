@@ -1,0 +1,300 @@
+2022-09-23 00:24:17,674 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:24:17,675 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-23 00:24:24,503 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-23 00:24:29,884 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:24:29,885 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-23 00:24:35,005 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-23 00:26:39,518 - test_HomePage.py:[23] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:26:39,518 - test_HomePage.py:[24] - [INFO] - Started Home Page title
+2022-09-23 00:26:43,454 - test_HomePage.py:[34] - [INFO] - Home Page Title Test passed
+2022-09-23 00:26:47,858 - test_HomePage.py:[44] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:26:47,859 - test_HomePage.py:[45] - [INFO] - Started Login Page Test
+2022-09-23 00:26:52,325 - test_HomePage.py:[55] - [INFO] - Login Page Test passed
+2022-09-23 00:37:52,788 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:37:52,789 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 00:37:56,182 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 00:38:01,002 - test_HomePage.py:[46] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:38:01,003 - test_HomePage.py:[47] - [INFO] - Started Login Page Test
+2022-09-23 00:38:05,429 - test_HomePage.py:[58] - [INFO] - Login Page Test passed
+2022-09-23 00:38:25,232 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:38:25,233 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 00:38:28,910 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 00:38:33,507 - test_HomePage.py:[46] - [INFO] - *****Test_001_Home*****
+2022-09-23 00:38:33,507 - test_HomePage.py:[47] - [INFO] - Started Login Page Test
+2022-09-23 00:38:38,475 - test_HomePage.py:[58] - [INFO] - Login Page Test passed
+2022-09-23 00:50:20,410 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:50:20,411 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 00:50:24,721 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 00:50:29,142 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:50:29,143 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 00:51:53,683 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:51:53,683 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 00:52:00,093 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 00:52:06,083 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:52:06,083 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 00:53:56,250 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:53:56,250 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 00:54:03,154 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 00:54:07,614 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:54:07,614 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 00:54:38,451 - test_LoginPage.py:[67] - [INFO] - Login Test failed
+2022-09-23 00:54:38,451 - test_LoginPage.py:[68] - [ERROR] - Test failed
+2022-09-23 00:56:16,190 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:56:16,191 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 00:56:22,482 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 00:56:26,969 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:56:26,969 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 00:56:58,175 - test_LoginPage.py:[67] - [INFO] - Login Test failed
+2022-09-23 00:56:58,176 - test_LoginPage.py:[68] - [ERROR] - Test failed
+2022-09-23 00:58:47,387 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:58:47,388 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 00:58:51,717 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 00:58:55,995 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 00:58:55,995 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 00:59:08,541 - test_LoginPage.py:[62] - [INFO] - Login Test passed
+2022-09-23 01:16:21,089 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:16:21,089 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 01:23:33,101 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:23:33,101 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:32:11,800 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:32:11,801 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:36:27,968 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:36:27,969 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:37:52,674 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:37:52,675 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:42:16,659 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:42:16,660 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:44:21,795 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:44:21,796 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:48:26,358 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:48:26,359 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:49:49,459 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:49:49,459 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:51:35,086 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:51:35,087 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:54:04,310 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:54:04,311 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 01:55:06,033 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 01:55:06,033 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 08:24:12,263 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:24:12,383 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:24:21,972 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:24:21,983 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:27:21,191 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:27:21,193 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:27:26,783 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:27:30,996 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:27:30,996 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:29:25,863 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:29:25,863 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:29:30,448 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:29:35,434 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:29:35,435 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:29:58,072 - test_RegisterPage.py:[74] - [INFO] - *****Register Test failed*****
+2022-09-23 08:29:58,073 - test_RegisterPage.py:[75] - [ERROR] - *****Test failed*****
+2022-09-23 08:32:32,091 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:32:32,092 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:32:37,212 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:32:42,008 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:32:42,009 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:32:54,264 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 08:33:47,774 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:33:47,774 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:33:51,761 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:33:56,595 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:33:56,595 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:34:15,681 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 08:37:42,984 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:37:42,984 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:37:47,103 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:37:50,865 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:37:50,865 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:38:02,686 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 08:40:00,638 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:40:00,638 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:40:04,247 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:40:08,705 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:40:08,705 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:40:19,352 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 08:45:43,499 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 08:45:43,530 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 08:45:49,336 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 08:45:53,277 - test_HomePage.py:[46] - [INFO] - *****Test_001_Home*****
+2022-09-23 08:45:53,278 - test_HomePage.py:[47] - [INFO] - Started Login Page Test
+2022-09-23 08:45:57,499 - test_HomePage.py:[58] - [INFO] - Login Page Test passed
+2022-09-23 08:46:01,397 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 08:46:01,398 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 08:46:09,514 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 08:46:13,748 - test_LoginPage.py:[46] - [INFO] - *****Test_002_Login*****
+2022-09-23 08:46:13,748 - test_LoginPage.py:[47] - [INFO] - Started Login Test
+2022-09-23 08:46:28,076 - test_LoginPage.py:[62] - [INFO] - Login Test passed
+2022-09-23 08:46:33,854 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 08:46:33,855 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 08:47:04,822 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:47:04,823 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:47:09,509 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 08:47:13,808 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 08:47:13,810 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 08:47:25,612 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 08:58:37,403 - test_HomePage.py:[26] - [INFO] - *****Test_001_Home*****
+2022-09-23 08:58:37,403 - test_HomePage.py:[27] - [INFO] - Started Home Page title
+2022-09-23 08:58:41,102 - test_HomePage.py:[37] - [INFO] - Home Page Title Test passed
+2022-09-23 08:58:45,609 - test_HomePage.py:[48] - [INFO] - *****Test_001_Home*****
+2022-09-23 08:58:45,609 - test_HomePage.py:[49] - [INFO] - Started Login Page Test
+2022-09-23 08:58:50,894 - test_HomePage.py:[60] - [INFO] - Login Page Test passed
+2022-09-23 08:58:54,963 - test_LoginPage.py:[24] - [INFO] - *****Test_002_Login*****
+2022-09-23 08:58:54,965 - test_LoginPage.py:[25] - [INFO] - Started Login Page Title Test
+2022-09-23 08:58:59,031 - test_LoginPage.py:[36] - [INFO] - Login Page Test passed
+2022-09-23 08:59:02,971 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 08:59:02,972 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 08:59:27,403 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 08:59:31,566 - test_RegisterPage.py:[28] - [INFO] - *****Test_004_Register*****
+2022-09-23 08:59:31,567 - test_RegisterPage.py:[29] - [INFO] - Started Register Page Title Test
+2022-09-23 08:59:36,723 - test_RegisterPage.py:[40] - [INFO] - *****Register Page Test passed*****
+2022-09-23 09:00:44,179 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:00:44,180 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:00:55,973 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:01:01,062 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:01:01,062 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:01:28,948 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:01:28,949 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:01:58,833 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 09:40:22,749 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:40:22,750 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:40:38,346 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:40:43,629 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:40:43,630 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:41:11,201 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:41:11,202 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:41:37,184 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 09:44:30,026 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:44:30,027 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:44:41,942 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:44:47,745 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:44:47,746 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:45:14,314 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:45:14,314 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:45:26,321 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 09:47:43,006 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:47:43,007 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:47:55,239 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:47:59,775 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:47:59,775 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:48:31,234 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:48:31,234 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:48:53,574 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 09:51:41,895 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:51:41,896 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:51:53,820 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:51:58,190 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:51:58,191 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:52:25,274 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:52:25,275 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:52:40,113 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 09:55:53,719 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 09:55:53,720 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 09:56:05,411 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 09:56:10,536 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 09:56:10,537 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 09:56:43,096 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 09:56:43,096 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 09:56:55,987 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 10:11:09,477 - test_LoginPage.py:[48] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:11:09,477 - test_LoginPage.py:[49] - [INFO] - Started Login Test
+2022-09-23 10:11:21,301 - test_LoginPage.py:[64] - [INFO] - Login Test passed
+2022-09-23 10:11:26,171 - test_LoginPageDDT.py:[29] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:11:26,174 - test_LoginPageDDT.py:[30] - [INFO] - Started Login Test
+2022-09-23 10:11:55,678 - test_RegisterPage.py:[51] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:11:55,679 - test_RegisterPage.py:[52] - [INFO] - Started Register Test
+2022-09-23 10:12:24,017 - test_RegisterPage.py:[70] - [INFO] - *****Register Test passed*****
+2022-09-23 10:19:40,012 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:19:40,013 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:19:53,237 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:19:57,497 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:19:57,498 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:20:23,591 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:20:23,591 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:20:45,047 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:30:18,458 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:30:18,458 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 10:30:22,328 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 10:30:26,925 - test_HomePage.py:[47] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:30:26,926 - test_HomePage.py:[48] - [INFO] - Started Login Page Test
+2022-09-23 10:30:32,763 - test_HomePage.py:[59] - [INFO] - Login Page Test passed
+2022-09-23 10:30:36,979 - test_LoginPage.py:[23] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:30:36,979 - test_LoginPage.py:[24] - [INFO] - Started Login Page Title Test
+2022-09-23 10:30:41,275 - test_LoginPage.py:[35] - [INFO] - Login Page Test passed
+2022-09-23 10:30:45,617 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:30:45,618 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:30:59,300 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:31:03,563 - test_RegisterPage.py:[27] - [INFO] - *****Test_004_Register*****
+2022-09-23 10:31:03,564 - test_RegisterPage.py:[28] - [INFO] - Started Register Page Title Test
+2022-09-23 10:31:08,390 - test_RegisterPage.py:[39] - [INFO] - *****Register Page Test passed*****
+2022-09-23 10:32:23,062 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:32:23,063 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:32:34,871 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:32:39,363 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:32:39,364 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:32:48,132 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:32:48,133 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:33:10,565 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:36:15,889 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:36:15,890 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:36:27,663 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:36:33,429 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:36:33,429 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:37:02,075 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:37:02,075 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:37:14,654 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:44:04,344 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:44:04,345 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:44:17,460 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:44:21,897 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:44:21,898 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:44:50,557 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:44:50,557 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:45:03,724 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:46:47,767 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:46:47,768 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:46:59,537 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:47:03,316 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:47:03,316 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:47:33,787 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:47:33,787 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:47:47,119 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:52:13,975 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:52:13,976 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 10:52:18,130 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 10:52:23,650 - test_HomePage.py:[47] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:52:23,650 - test_HomePage.py:[48] - [INFO] - Started Login Page Test
+2022-09-23 10:52:28,547 - test_HomePage.py:[59] - [INFO] - Login Page Test passed
+2022-09-23 10:53:10,711 - test_HomePage.py:[25] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:53:10,712 - test_HomePage.py:[26] - [INFO] - Started Home Page title
+2022-09-23 10:53:14,362 - test_HomePage.py:[36] - [INFO] - Home Page Title Test passed
+2022-09-23 10:53:19,167 - test_HomePage.py:[47] - [INFO] - *****Test_001_Home*****
+2022-09-23 10:53:19,167 - test_HomePage.py:[48] - [INFO] - Started Login Page Test
+2022-09-23 10:53:23,289 - test_HomePage.py:[59] - [INFO] - Login Page Test passed
+2022-09-23 10:54:28,793 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:54:28,794 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:54:39,654 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:54:44,752 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:54:44,753 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:54:57,258 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:54:57,259 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:55:12,863 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:55:29,541 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:55:29,542 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:55:44,301 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:55:49,509 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:55:49,509 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:56:17,109 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:56:17,109 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:56:30,054 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
+2022-09-23 10:57:18,803 - test_LoginPage.py:[47] - [INFO] - *****Test_002_Login*****
+2022-09-23 10:57:18,804 - test_LoginPage.py:[48] - [INFO] - Started Login Test
+2022-09-23 10:57:30,655 - test_LoginPage.py:[63] - [INFO] - Login Test passed
+2022-09-23 10:57:38,269 - test_LoginPageDDT.py:[28] - [INFO] - *****Test_003_Login DDT*****
+2022-09-23 10:57:38,270 - test_LoginPageDDT.py:[29] - [INFO] - Started Login Test
+2022-09-23 10:58:05,113 - test_RegisterPage.py:[50] - [INFO] - *****Test_003_Regsietr*****
+2022-09-23 10:58:05,113 - test_RegisterPage.py:[51] - [INFO] - Started Register Test
+2022-09-23 10:58:17,724 - test_RegisterPage.py:[69] - [INFO] - *****Register Test passed*****
