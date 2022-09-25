@@ -1,0 +1,10 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 105.0.5195
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+[32mINFO    [0m testCases.test_LoginPageDDT:test_LoginPageDDT.py:27 *****Test_003_Login DDT*****
+[32mINFO    [0m testCases.test_LoginPageDDT:test_LoginPageDDT.py:28 Started Login Test
+[32mINFO    [0m root:test_LoginPageDDT.py:54 **** passed ****
+[32mINFO    [0m root:test_LoginPageDDT.py:68 **** passed ****
+[32mINFO    [0m root:test_LoginPageDDT.py:73 ******* DDT Login test passed **********
+[32mINFO    [0m root:test_LoginPageDDT.py:82 ******* End of Login DDT Test **********
+[32mINFO    [0m root:test_LoginPageDDT.py:83 **************** Completed  Test_003_LoginDDT *************
