@@ -1,0 +1,12 @@
+Launching Chrome Browser
+Number of rows... 3
+vijay.malladi@gmail.test
+Tosca1234!
+Pass
+Demo Web Shop
+['Pass']
+vijay.malladi@gmail.test
+xxxx
+Fail
+Demo Web Shop. Login
+['Pass', 'Pass']
