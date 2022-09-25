@@ -2,3 +2,4 @@ main.py
 Logs/**
 testCases/.pytest_cache/**
 venv/**
+Reports/Allure/**
