@@ -41,7 +41,7 @@ class Test_002_Login:
             self.log.logger.error("Test failed")
             assert False
 
-    @pytest.mark.skip
+    #@pytest.mark.skip
     @pytest.mark.sanity
     @pytest.mark.regression
     def test_Login(self, setup):
