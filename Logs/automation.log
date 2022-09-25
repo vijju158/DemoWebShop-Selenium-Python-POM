@@ -2583,3 +2583,259 @@
 09/25/2022 07:18:40 PM: INFO: *****Register Test passed*****
 09/25/2022 07:18:40 PM: INFO: *****Register Test passed*****
 09/25/2022 07:18:40 PM: INFO: *****Register Test passed*****
+09/25/2022 07:30:33 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:30:33 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:30:33 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:30:33 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:30:40 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:30:40 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:30:40 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:30:40 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:30:41 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:30:41 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:30:41 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:30:41 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:30:45 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:30:45 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:30:45 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:30:45 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:30:45 PM: INFO: Started Login Test
+09/25/2022 07:30:45 PM: INFO: Started Login Test
+09/25/2022 07:30:45 PM: INFO: Started Login Test
+09/25/2022 07:30:45 PM: INFO: Started Login Test
+09/25/2022 07:31:05 PM: INFO: **** passed ****
+09/25/2022 07:31:05 PM: INFO: **** passed ****
+09/25/2022 07:31:05 PM: INFO: **** passed ****
+09/25/2022 07:31:05 PM: INFO: **** passed ****
+09/25/2022 07:31:10 PM: INFO: **** passed ****
+09/25/2022 07:31:10 PM: INFO: **** passed ****
+09/25/2022 07:31:10 PM: INFO: **** passed ****
+09/25/2022 07:31:10 PM: INFO: **** passed ****
+09/25/2022 07:31:10 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:31:10 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:31:10 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:31:10 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:31:10 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:31:10 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:31:10 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:31:10 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:31:10 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:31:10 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:31:10 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:31:10 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:31:10 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:31:10 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:31:10 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:31:10 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:31:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:31:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:31:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:31:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:31:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:31:16 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:31:16 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:31:16 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:31:16 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:31:16 PM: INFO: Started Register Test
+09/25/2022 07:31:16 PM: INFO: Started Register Test
+09/25/2022 07:31:16 PM: INFO: Started Register Test
+09/25/2022 07:31:16 PM: INFO: Started Register Test
+09/25/2022 07:31:29 PM: INFO: *****Register Test passed*****
+09/25/2022 07:31:29 PM: INFO: *****Register Test passed*****
+09/25/2022 07:31:29 PM: INFO: *****Register Test passed*****
+09/25/2022 07:31:29 PM: INFO: *****Register Test passed*****
+09/25/2022 07:51:01 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:01 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:01 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:01 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:05 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:05 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:05 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:05 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:08 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:51:08 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:51:08 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:51:08 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 07:51:08 PM: INFO: Started Login Test
+09/25/2022 07:51:08 PM: INFO: Started Login Test
+09/25/2022 07:51:08 PM: INFO: Started Login Test
+09/25/2022 07:51:08 PM: INFO: Started Login Test
+09/25/2022 07:51:22 PM: INFO: **** passed ****
+09/25/2022 07:51:22 PM: INFO: **** passed ****
+09/25/2022 07:51:22 PM: INFO: **** passed ****
+09/25/2022 07:51:22 PM: INFO: **** passed ****
+09/25/2022 07:51:26 PM: INFO: **** passed ****
+09/25/2022 07:51:26 PM: INFO: **** passed ****
+09/25/2022 07:51:26 PM: INFO: **** passed ****
+09/25/2022 07:51:26 PM: INFO: **** passed ****
+09/25/2022 07:51:26 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:51:26 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:51:26 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:51:26 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 07:51:26 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:51:26 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:51:26 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:51:26 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 07:51:26 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:51:26 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:51:26 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:51:26 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 07:51:26 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:26 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:26 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:26 PM: INFO: ====== WebDriver manager ======
+09/25/2022 07:51:28 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:28 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:28 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:28 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 07:51:29 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:29 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:29 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:29 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 07:51:32 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:51:32 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:51:32 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:51:32 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 07:51:32 PM: INFO: Started Register Test
+09/25/2022 07:51:32 PM: INFO: Started Register Test
+09/25/2022 07:51:32 PM: INFO: Started Register Test
+09/25/2022 07:51:32 PM: INFO: Started Register Test
+09/25/2022 07:51:53 PM: INFO: *****Register Test passed*****
+09/25/2022 07:51:53 PM: INFO: *****Register Test passed*****
+09/25/2022 07:51:53 PM: INFO: *****Register Test passed*****
+09/25/2022 07:51:53 PM: INFO: *****Register Test passed*****
+09/25/2022 09:35:11 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:11 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:11 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:11 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:12 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:13 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:16 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 09:35:16 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 09:35:16 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 09:35:16 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 09:35:16 PM: INFO: Started Login Test
+09/25/2022 09:35:16 PM: INFO: Started Login Test
+09/25/2022 09:35:16 PM: INFO: Started Login Test
+09/25/2022 09:35:16 PM: INFO: Started Login Test
+09/25/2022 09:35:28 PM: INFO: **** passed ****
+09/25/2022 09:35:28 PM: INFO: **** passed ****
+09/25/2022 09:35:28 PM: INFO: **** passed ****
+09/25/2022 09:35:28 PM: INFO: **** passed ****
+09/25/2022 09:35:38 PM: INFO: **** passed ****
+09/25/2022 09:35:38 PM: INFO: **** passed ****
+09/25/2022 09:35:38 PM: INFO: **** passed ****
+09/25/2022 09:35:38 PM: INFO: **** passed ****
+09/25/2022 09:35:38 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 09:35:38 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 09:35:38 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 09:35:38 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 09:35:38 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 09:35:38 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 09:35:38 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 09:35:38 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 09:35:38 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 09:35:38 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 09:35:38 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 09:35:38 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 09:35:38 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:38 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:38 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:38 PM: INFO: ====== WebDriver manager ======
+09/25/2022 09:35:39 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:39 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:39 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:39 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 09:35:40 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:40 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:40 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:40 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 09:35:43 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 09:35:43 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 09:35:43 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 09:35:43 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 09:35:43 PM: INFO: Started Register Test
+09/25/2022 09:35:43 PM: INFO: Started Register Test
+09/25/2022 09:35:43 PM: INFO: Started Register Test
+09/25/2022 09:35:43 PM: INFO: Started Register Test
+09/25/2022 09:36:02 PM: INFO: *****Register Test passed*****
+09/25/2022 09:36:02 PM: INFO: *****Register Test passed*****
+09/25/2022 09:36:02 PM: INFO: *****Register Test passed*****
+09/25/2022 09:36:02 PM: INFO: *****Register Test passed*****
+09/25/2022 10:03:02 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:02 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:02 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:02 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:03 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:04 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:04 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:04 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:04 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:07 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 10:03:07 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 10:03:07 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 10:03:07 PM: INFO: *****Test_003_Login DDT*****
+09/25/2022 10:03:07 PM: INFO: Started Login Test
+09/25/2022 10:03:07 PM: INFO: Started Login Test
+09/25/2022 10:03:07 PM: INFO: Started Login Test
+09/25/2022 10:03:07 PM: INFO: Started Login Test
+09/25/2022 10:03:18 PM: INFO: **** passed ****
+09/25/2022 10:03:18 PM: INFO: **** passed ****
+09/25/2022 10:03:18 PM: INFO: **** passed ****
+09/25/2022 10:03:18 PM: INFO: **** passed ****
+09/25/2022 10:03:21 PM: INFO: **** passed ****
+09/25/2022 10:03:21 PM: INFO: **** passed ****
+09/25/2022 10:03:21 PM: INFO: **** passed ****
+09/25/2022 10:03:21 PM: INFO: **** passed ****
+09/25/2022 10:03:21 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 10:03:21 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 10:03:21 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 10:03:21 PM: INFO: ******* DDT Login test passed **********
+09/25/2022 10:03:21 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 10:03:21 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 10:03:21 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 10:03:21 PM: INFO: ******* End of Login DDT Test **********
+09/25/2022 10:03:21 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 10:03:21 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 10:03:21 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 10:03:21 PM: INFO: **************** Completed  Test_003_LoginDDT ************* 
+09/25/2022 10:03:21 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:21 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:21 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:21 PM: INFO: ====== WebDriver manager ======
+09/25/2022 10:03:22 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:22 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:22 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:22 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/25/2022 10:03:23 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:23 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:23 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:23 PM: INFO: Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/25/2022 10:03:25 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 10:03:25 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 10:03:25 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 10:03:25 PM: INFO: *****Test_003_Regsietr*****
+09/25/2022 10:03:25 PM: INFO: Started Register Test
+09/25/2022 10:03:25 PM: INFO: Started Register Test
+09/25/2022 10:03:25 PM: INFO: Started Register Test
+09/25/2022 10:03:25 PM: INFO: Started Register Test
+09/25/2022 10:03:35 PM: INFO: *****Register Test passed*****
+09/25/2022 10:03:35 PM: INFO: *****Register Test passed*****
+09/25/2022 10:03:35 PM: INFO: *****Register Test passed*****
+09/25/2022 10:03:35 PM: INFO: *****Register Test passed*****
