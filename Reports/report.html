@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 25-Sep-2022 at 22:03:35 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 26-Sep-2022 at 09:33:00 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Vijay</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 33.74 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">1 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>3 tests ran in 125.69 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -277,20 +277,29 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="skipped results-table-row">
+      <tbody class="failed results-table-row">
         <tr>
-          <td class="col-result">Skipped</td>
+          <td class="col-result">Failed</td>
           <td class="col-name">test_LoginPage.py::Test_002_Login::test_Login</td>
-          <td class="col-duration">0.00</td>
+          <td class="col-duration">48.00</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">(&#x27;C:\\Users\\Tejas\\PycharmProjects\\DemoWebShop-POM\\testCases\\test_LoginPage.py&#x27;, 44, &#x27;Skipped: unconditional skip&#x27;)<br/></div></td></tr></tbody>
+            <div class="log">self = &lt;testCases.test_LoginPage.Test_002_Login object at 0x03D3E580&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;5a001aff01edbff39d1d0e28f7479abb&quot;)&gt;<br/><br/>    @pytest.mark.sanity<br/>    @pytest.mark.regression<br/>    def test_Login(self, setup):<br/>        self.log.logger.info(&quot;*****Test_002_Login*****&quot;)<br/>        self.log.logger.info(&quot;Started Login Test&quot;)<br/>        self.driver = setup<br/>        self.driver.maximize_window()<br/>        self.driver.get(self.baseURL)<br/>        self.homepage = HomePage(self.driver)<br/>        self.homepage.navigateToLogin()<br/>        self.loginpage = LoginPage(self.driver)<br/>        self.loginpage.setEmail(&quot;vijay.malladi@gmail.test&quot;)<br/>        self.loginpage.setPassword(&quot;Tosca1234!&quot;)<br/>        self.loginpage.clickLogin()<br/>    <br/>        act_title = self.loginpage.getTitle()<br/>        if act_title == &quot;Demo Web Shop 1&quot;:<br/>            assert True<br/>            self.driver.close()<br/>            self.log.logger.info(&quot;Login Test passed&quot;)<br/>        else:<br/>            self.driver.save_screenshot(&quot;..\\Screenshots\\&quot; + &quot;test_Login.png&quot;)<br/>            #self.driver.get_screenshot_as_file(&quot;test_goToLogin.png&quot;)<br/>            self.driver.close()<br/>            self.log.logger.info(&quot;Login Test failed&quot;)<br/>            self.log.logger.error(&quot;Test failed&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>testCases\test_LoginPage.py:71: AssertionError<br/> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|          | 0.00/6.68M [00:00&lt;?, ?B/s][WDM] - Downloading:   5%|▌         | 360k/6.68M [00:00&lt;00:01, 3.67MB/s][WDM] - Downloading:  11%|█         | 720k/6.68M [00:00&lt;00:03, 1.58MB/s][WDM] - Downloading:  15%|█▍        | 1.00M/6.68M [00:00&lt;00:03, 1.90MB/s][WDM] - Downloading:  19%|█▉        | 1.29M/6.68M [00:00&lt;00:02, 2.14MB/s][WDM] - Downloading:  25%|██▍       | 1.66M/6.68M [00:00&lt;00:02, 2.59MB/s][WDM] - Downloading:  29%|██▉       | 1.95M/6.68M [00:00&lt;00:01, 2.49MB/s][WDM] - Downloading:  33%|███▎      | 2.22M/6.68M [00:01&lt;00:02, 1.56MB/s][WDM] - Downloading:  38%|███▊      | 2.57M/6.68M [00:01&lt;00:02, 1.95MB/s][WDM] - Downloading:  43%|████▎     | 2.87M/6.68M [00:01&lt;00:01, 2.18MB/s][WDM] - Downloading:  47%|████▋     | 3.15M/6.68M [00:01&lt;00:01, 2.35MB/s][WDM] - Downloading:  52%|█████▏    | 3.45M/6.68M [00:01&lt;00:01, 2.53MB/s][WDM] - Downloading:  56%|█████▌    | 3.74M/6.68M [00:01&lt;00:01, 2.62MB/s][WDM] - Downloading:  61%|██████    | 4.07M/6.68M [00:01&lt;00:00, 2.82MB/s][WDM] - Downloading:  66%|██████▌   | 4.41M/6.68M [00:01&lt;00:00, 3.00MB/s][WDM] - Downloading:  71%|███████   | 4.72M/6.68M [00:02&lt;00:00, 3.03MB/s][WDM] - Downloading:  75%|███████▌  | 5.02M/6.68M [00:02&lt;00:00, 2.57MB/s][WDM] - Downloading:  82%|████████▏ | 5.45M/6.68M [00:02&lt;00:00, 3.03MB/s][WDM] - Downloading:  87%|████████▋ | 5.80M/6.68M [00:02&lt;00:00, 3.18MB/s][WDM] - Downloading:  92%|█████████▏| 6.15M/6.68M [00:02&lt;00:00, 3.26MB/s][WDM] - Downloading:  97%|█████████▋| 6.48M/6.68M [00:02&lt;00:00, 3.17MB/s][WDM] - Downloading: 100%|██████████| 6.68M/6.68M [00:02&lt;00:00, 2.59MB/s]
+<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 105.0.5195
+INFO     WDM:logger.py:11 About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+INFO     WDM:logger.py:11 Driver has been saved in cache [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195]<br/> ------------------------------Captured stdout call------------------------------ <br/>Demo Web Shop
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     testCases.test_LoginPage:test_LoginPage.py:48 *****Test_002_Login*****
+INFO     testCases.test_LoginPage:test_LoginPage.py:49 Started Login Test
+INFO     testCases.test_LoginPage:test_LoginPage.py:69 Login Test failed
+ERROR    testCases.test_LoginPage:test_LoginPage.py:70 Test failed<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_LoginPageDDT.py::Test_003_LoginDDT::test_LoginDDT</td>
-          <td class="col-duration">18.82</td>
+          <td class="col-duration">35.39</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -319,16 +328,16 @@ INFO     root:test_LoginPageDDT.py:83 **************** Completed  Test_003_Login
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_RegisterPage.py::Test_004_Register::test_Register</td>
-          <td class="col-duration">14.21</td>
+          <td class="col-duration">31.67</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome Browser
 <br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
 INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 105.0.5195
-INFO     WDM:logger.py:11 Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache<br/> ------------------------------Captured stdout call------------------------------ <br/>Test4447
-Test7345
-Test1432@gmail.test
+INFO     WDM:logger.py:11 Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache<br/> ------------------------------Captured stdout call------------------------------ <br/>Test8164
+Test5626
+Test1567@gmail.test
 <br/> -------------------------------Captured log call-------------------------------- <br/>INFO     testCases.test_RegisterPage:test_RegisterPage.py:50 *****Test_003_Regsietr*****
 INFO     testCases.test_RegisterPage:test_RegisterPage.py:51 Started Register Test
 INFO     testCases.test_RegisterPage:test_RegisterPage.py:69 *****Register Test passed*****<br/></div></td></tr></tbody></table></body></html>

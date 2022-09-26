@@ -1,5 +1,8 @@
+Reports/**
 main.py
-Logs/**
-testCases/.pytest_cache/**
+.pytest_cache
 venv/**
-Reports/Allure/**
+test.py
+logs
+/Reports
+/Logs
