@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 105.0.5195
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Tejas\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+[32mINFO    [0m testCases.test_RegisterPage:test_RegisterPage.py:50 *****Test_003_Regsietr*****
+[32mINFO    [0m testCases.test_RegisterPage:test_RegisterPage.py:51 Started Register Test
+[32mINFO    [0m testCases.test_RegisterPage:test_RegisterPage.py:69 *****Register Test passed*****

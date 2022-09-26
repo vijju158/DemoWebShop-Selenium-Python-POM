@@ -1,2 +1,12 @@
+automation.log
+*.log
+*.html
+Reports/**
 main.py
-Logs/automation.log
+.pytest_cache
+venv/**
+test.py
+logs
+/Reports
+/Logs/*
+Reports/

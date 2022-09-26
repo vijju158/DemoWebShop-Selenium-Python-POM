@@ -41,6 +41,7 @@ class Test_002_Login:
             self.log.logger.error("Test failed")
             assert False
 
+    #@pytest.mark.skip
     @pytest.mark.sanity
     @pytest.mark.regression
     def test_Login(self, setup):
@@ -57,7 +58,7 @@ class Test_002_Login:
         self.loginpage.clickLogin()
 
         act_title = self.loginpage.getTitle()
-        if act_title == "Demo Web Shop":
+        if act_title == "Demo Web Shop 1":
             assert True
             self.driver.close()
             self.log.logger.info("Login Test passed")
